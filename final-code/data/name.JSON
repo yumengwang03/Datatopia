@@ -1,4 +1,18 @@
 [{
+    "id": 1463345022681,
+    "name": "Gentry",
+    "hair": 2,
+    "spaceA": "no",
+    "emotions": ["confused", "delusional", "optimistic", "anxious", "bitter"],
+    "lampA": ["asdf", "adf", "adf", "adf", "adsf"]
+}, {
+    "id": 1463344546047,
+    "name": "Zanzie",
+    "hair": 2,
+    "spaceA": "yes",
+    "emotions": ["confused", "delusional", "optimistic", "pleased", "outrageous"],
+    "lampA": ["asdf", "adf", "adf", "adf", "adsf"]
+}, {
     "id": 1463192018297,
     "name": "Germs Callahoon",
     "hair": 3,
@@ -7,7 +21,7 @@
     "lampA": ["yes", "deep personal thoughts", "nah", "not if i can help it", "yeah boi"]
 }, {
     "id": 1463190871577,
-    "name": "kelly",
+    "name": "Kelly",
     "hair": 2,
     "spaceA": "yes",
     "emotions": ["pleased", "anxious", "delightful", "melancholic", "confused"],
