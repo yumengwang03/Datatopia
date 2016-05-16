@@ -1,4 +1,6 @@
 # Datatopia
+(Final project for Core Studio/Lab: Collaboration and Code 2: Data Poetics)
+
 Datatopia is an interactive installation that reframes the unsustainable online data tracking system into a sci-fi narrative. It consists of an interface for experiencing the narrative of traveling in a world made of text, a server that logs every bit of information the audience has input, and a printer that prints out a unique story generated based on user input every time. During the journey, the user also travels with two other passengers who have been to Datatopia before to give instructions in each scene. Their names are the real names of the previous two users.
 
 Looking at the development of personal privacy in history, Datatopia investigates different types of relationships between us and the data we generate on daily basis to speculate the future definition of privacy.
