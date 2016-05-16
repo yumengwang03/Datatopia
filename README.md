@@ -11,3 +11,9 @@ a right to fight for
 commodities, luxuries
 
 What the future of privacy will be? Will it disappear again for wealth, convenience, fame and more radical social transparency? One answer can be that privacy will the ability to construct an unobstructed identity without the interference of the information overflow from data mining. But of course, this is a very broad question and Datatopia does not give an answer. It only intends to raise awareness for the general audience of the vulnerability of their data collected by marketers for unethical commercial use. The printout story, mainly created with context free grammar, provides a more tangible form to look at our own information that we have neglected. Some information of the two previous travelers are also leaked in the story.
+
+![alt text](https://github.com/yumengwang03/Datatopia/blob/master/testing-pictures/installation.jpg)
+![alt text](https://github.com/yumengwang03/Datatopia/blob/master/testing-pictures/Screen%20Shot%202016-05-03%20at%203.30.05%20AM.png)
+![alt text](https://github.com/yumengwang03/Datatopia/blob/master/testing-pictures/landing-scene.png)
+![alt text](https://github.com/yumengwang03/Datatopia/blob/master/testing-pictures/galaxy-scene.png)
+![alt text](https://github.com/yumengwang03/Datatopia/blob/master/testing-pictures/lung.png)
